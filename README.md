@@ -1,7 +1,7 @@
 # Themes for Terminal elementaryOS
 Script for change Theme Color on Terminal
 
-This run on elementary OS 5.1 Hera
+This run on **elementary OS 5.1 Hera**
 
 ## How to Install
 
