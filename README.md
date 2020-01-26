@@ -18,3 +18,5 @@ sudo mv theme /usr/bin
 ```
 $ theme
 ```
+
+![Screenshot](assets/theme.gif)
