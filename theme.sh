@@ -1,4 +1,5 @@
 #!/bin/bash
+#  Made with love by Heriberto Delgado
 #  Download it.
 #  Name it as 'theme'
 #  Place it in /usr/bin/
