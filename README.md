@@ -10,7 +10,7 @@ Script for change Theme Color on Terminal
 * Place it in /usr/bin/
 
 ```
-sudo mv theme /usr/bin
+sudo mv theme /usr/bin/
 ```
 
 * Execute on your Shell_prompt
